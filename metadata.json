@@ -1,0 +1,7 @@
+{
+  "name": "ExecuScribe - Assistente Executivo",
+  "description": "Aplicativo de transcrição e resumo inteligente de reuniões para executivos e profissionais de alto nível.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
